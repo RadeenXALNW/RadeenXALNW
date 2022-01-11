@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Radeen
 - 👀 I’m interested in deep machine learning and artificial intelligence
-- I'm doing my honours in Statistics
+- I'm doing my honors in Statistics
 - I’m currently learning intuition behind deep learning
 
 <!---
