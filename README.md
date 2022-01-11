@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Radeen
 - 👀 I’m interested in deep machine learning and artificial intelligence
-- 🌱 I’m currently learning intuition behind deep learning
+- I'm doing my honours in Statistics
+- I’m currently learning intuition behind deep learning
 
 <!---
 RadeenXALNW/RadeenXALNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
