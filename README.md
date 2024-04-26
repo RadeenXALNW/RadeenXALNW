@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radeen
 - 👀 I’m interested in deep machine learning and artificial intelligence
 - I’m currently working on image processing, computer vision and LLM.
-- Machine Learning Engineer and Research @IntelSenseAI
+- Machine Learning Engineer and Researcher @IntelSenseAI
 - Machine Learning Junior Developer @MagicMind
 
 <!---
