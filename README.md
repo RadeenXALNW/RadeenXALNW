@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Radeen
 - 👀 I’m interested in deep machine learning and artificial intelligence
 - I’m currently working on image processing, computer vision and LLM.
-- Machine Learning Engineer and Researcher @IntelSenseAI, Dhaka, Bangladesh
+- Machine Learning Engineer and Operations Manager @IntelSenseAI, Dhaka, Bangladesh
 - Machine Learning Junior Developer @MagicMind, Berkeley, California.
 
 <!---
