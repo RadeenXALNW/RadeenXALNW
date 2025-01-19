@@ -2,7 +2,7 @@
 - 👀 I’m interested in deep machine learning and artificial intelligence
 - I’m currently working on image processing, computer vision and LLM.
 - Founding Engineer @IntelSenseAI, Dhaka, Bangladesh
-- ML Developer & Researcher @MagicMind, Berkeley, California.
+- ML Developer & Researcher @magicmind.me, Berkeley, California.
 
 <!---
 RadeenXALNW/RadeenXALNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
