@@ -1,9 +1,10 @@
 - 👋 Hi, I’m @Radeen
 - 👀 I’m interested in deep machine learning and artificial intelligence
 - I’m currently working on image processing, computer vision and LLM.
-- Co-founder @RunAgent, Dhaka, Bangladesh
-- Founding Engineer @IntelSenseAI, Dhaka, Bangladesh
-- ML Developer & Researcher @magicmind.me, Berkeley, California.
+- Building something for the world
+- Co-founder @ [RunAgent](https://run-agent.ai/), Dhaka, Bangladesh
+- Founding Engineer @[IntelSenseAI](https://www.intelsense.ai/), Dhaka, Bangladesh
+- ML Developer & Researcher @ [magicmind.me](https://magicmind.me/), Berkeley, California.
 
 <!---
 RadeenXALNW/RadeenXALNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
