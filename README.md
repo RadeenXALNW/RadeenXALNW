@@ -5,7 +5,7 @@
 - Co-founder @ [RunAgent](https://run-agent.ai/), Dhaka, Bangladesh
 - Founding Engineer @[IntelSenseAI](https://www.intelsense.ai/), Dhaka, Bangladesh
 - ML Developer & Researcher @ [magicmind.me](https://magicmind.me/), Berkeley, California.
-
+- Oxford ML Summer School and CSML researcher
 <!---
 RadeenXALNW/RadeenXALNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
