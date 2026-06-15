@@ -2,8 +2,8 @@
 - 👀 I’m interested in deep machine learning and artificial intelligence
 - I’m currently working on image processing, computer vision and LLM.
 - Building something for the world
-- Co-founder @ [RunAgent](https://run-agent.ai/), Dhaka, Bangladesh
-- Founding Engineer @[IntelSenseAI](https://www.intelsense.ai/), Dhaka, Bangladesh
+- Co-creator @ [RunAgent](https://run-agent.ai/), Dhaka, Bangladesh
+- Ex-Founding Engineer @[IntelSenseAI](https://www.intelsense.ai/), Dhaka, Bangladesh
 - ML Developer & Researcher @ [magicmind.me](https://magicmind.me/), Berkeley, California.
 - Oxford ML Summer School and CSML researcher
 <!---
