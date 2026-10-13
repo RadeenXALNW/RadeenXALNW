@@ -4,7 +4,7 @@
 - Building something for the world
 - Co-creator @ [RunAgent](https://run-agent.ai/), Dhaka, Bangladesh
 - Ex-Founding Engineer @[IntelSenseAI](https://www.intelsense.ai/), Dhaka, Bangladesh
-- ML Developer & Researcher @ [magicmind.me](https://magicmind.me/), Berkeley, California.
+- Ex-ML Developer & Researcher @ [magicmind.me](https://magicmind.me/), Berkeley, California.
 - Oxford ML Summer School and CSML researcher
 <!---
 RadeenXALNW/RadeenXALNW is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
